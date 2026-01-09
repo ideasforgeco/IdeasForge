@@ -1,0 +1,29 @@
+{
+  "heading": {
+    "part1": "From Idea to Impact",
+    "part2": "Our 4-Step Process"
+  },
+  "subheading": "We collaborate closely with you to ensure every step meets your vision and goals.",
+  "cards": [
+    {
+      "icon": "/images/icons/onboarding_icon.svg",
+      "title": "Requirement Gathering & Onboarding",
+      "description": "We dive deep into your vision, understanding your goals, target and technical requirements."
+    },
+    {
+      "icon": "/images/icons/design_icon.svg",
+      "title": "Design",
+      "description": "Our designers craft intuitive user experiences and stunning interfaces that align with your brand."
+    },
+    {
+      "icon": "/images/icons/dev_icon.svg",
+      "title": "Development",
+      "description": "Expert developers bring designs to life using cutting-edge technologies, frames and best practices."
+    },
+    {
+      "icon": "/images/icons/test_icon.svg",
+      "title": "Testing & Launch",
+      "description": "We deploy your solution and provide ongoing support to ensure optimal performance and growth."
+    }
+  ]
+}

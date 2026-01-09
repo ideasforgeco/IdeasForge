@@ -1,0 +1,44 @@
+{
+  "heading": {
+    "part1": "Real Projects.",
+    "part2": "Real Impact"
+  },
+  "subheading": "We’ve helped startups grow into brands and ideas evolve into revenue-generating products.",
+  "projects": [
+    {
+      "id": 1,
+      "name": "NowVPlay ",
+      "description": "NowVPlay is a multi-portal entertainment and talent platform connecting venues, talents, and users through role-based access. ",
+      "image": "/images/projects/project_1.jpg",
+      "tags": ["Entertainment", "Platform"]
+    },
+    {
+      "id": 2,
+      "name": "RewardHub",
+      "description": "Loyalty Program Management System using NestJS, React, and PostgreSQL. The platform enables businesses to manage events, offers, vendors, tiers, projects, and members seamlessly.",
+      "image": "/images/projects/project_2.jpeg",
+      "tags": ["Loyalty", "Commerce"]
+    },
+    {
+      "id": 3,
+      "name": "LeadFlow",
+      "description": "Company data management platform using NestJS, PostgreSQL, and React. Users can import a single CSV containing both companies and leads with dynamic header mapping.",
+      "image": "/images/projects/project_3.jpg",
+      "tags": ["B2B", "SaaS"]
+    },
+    {
+      "id": 4,
+      "name": "BorrowMyBoard",
+      "description": "Rental marketplace built for a US-based client, enabling users to rent sports equipment such as snowboards and other gear.",
+      "image": "/images/projects/project_4.jpg",
+      "tags": ["Rental", "Marketplace"]
+    },
+    {
+      "id": 5,
+      "name": "HealthBridge",
+      "description": "Healthcare Management System built with Angular, Node.js, Express, and PostgreSQL. Features role-based access (doctors, patients, admins) for streamlined clinic/hospital operations.",
+      "image": "/images/projects/project_5.jpeg",
+      "tags": ["Healthcare", "SaaS"]
+    }
+  ]
+}

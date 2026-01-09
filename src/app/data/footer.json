@@ -1,0 +1,43 @@
+{
+  "heading": {
+    "line1": "Let's Build",
+    "line2": "Incredible Ideas Together."
+  },
+  "logo": "/images/icons/company_icon.svg",
+  "contact": {
+    "email": {
+      "label": "Email",
+      "value": "ideasforgeco@gmail.com"
+    },
+    "phone": {
+      "label": "Call Us",
+      "value": "000000000"
+    }
+  },
+  "social": [
+    {
+      "name": "LinkedIn",
+      "icon": "/images/icons/linkedin_icon.svg",
+      "url": "https://www.linkedin.com/in/ideas-forge"
+    },
+    {
+      "name": "Facebook",
+      "icon": "/images/icons/meta_icon.svg",
+      "url": "https://www.facebook.com/share/1733CtF4zf/"
+    },
+    {
+      "name": "Instagram",
+      "icon": "/images/icons/insta_icon.svg",
+      "url": "https://www.instagram.com/ideas.forge?igsh=MWZuM3Q3dzdrMG5jbA=="
+    }
+  ],
+  "servicesHeading": "Services",
+  "services": [
+    "Web Development",
+    "Mobile App Development",
+    "AI Solutions",
+    "DevOps",
+    "UI/UX Design"
+  ],
+  "copyright": "© Copyright 2026, IdeasForge. All rights reserved."
+}

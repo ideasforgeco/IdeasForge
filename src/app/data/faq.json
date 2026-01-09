@@ -1,0 +1,35 @@
+{
+  "badge": "GOT QUESTIONS?",
+  "heading": {
+    "line1": "Frequently Asked",
+    "line2": "Questions."
+  },
+  "subheading": "Find Answers To Common Queries About Our Services & How We Can Help You.",
+  "faqs": [
+    {
+      "id": 1,
+      "question": "What services does IdeasForge offer?",
+      "answer": "We specialize in custom software development, web and mobile app development, UI/UX design, cloud solutions, and backend system architecture. Our team works across various industries to deliver scalable, high-performing solutions tailored to your business needs."
+    },
+    {
+      "id": 2,
+      "question": "How long does a typical project take?",
+      "answer": "Project timelines vary based on complexity and scope. A simple website might take 1-2 weeks, while a complex enterprise application could take 3-6 months. We provide detailed timelines during our initial consultation and keep you updated throughout the development process."
+    },
+    {
+      "id": 3,
+      "question": "Do you provide ongoing support after launch?",
+      "answer": "Yes! We offer comprehensive post-launch support including bug fixes, updates, performance monitoring, and feature enhancements. We provide flexible maintenance packages tailored to your needs, ensuring your software continues to perform optimally."
+    },
+    {
+      "id": 4,
+      "question": "What is your development process?",
+      "answer": "We follow a 4-step process: Onboarding (understanding your needs), Design (creating mockups and prototypes), Development (building your solution with regular updates), and Testing & Launch (thorough QA and deployment). We maintain transparent communication throughout each phase."
+    },
+    {
+      "id": 5,
+      "question": "How do you ensure project quality?",
+      "answer": "Quality is our priority. We implement rigorous testing protocols, code reviews, and follow industry best practices. Our team uses agile methodologies for iterative development, ensuring you see progress regularly and can provide feedback. We also conduct thorough QA testing before every release."
+    }
+  ]
+}

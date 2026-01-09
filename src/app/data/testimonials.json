@@ -1,0 +1,26 @@
+{
+  "heading": "Real People. Real Stories",
+  "subheading": "We’ve helped startups grow into brands and ideas evolve into revenue-generating products.",
+  "testimonials": [
+    {
+      "id": 1,
+      "clientName": "Fahad Rashid",
+      "testimonial": "Reliable, High-Ownership Full-Stack Engineers. They delivered great services. Strong communicators!"
+    },
+    {
+      "id": 2,
+      "clientName": "Teo",
+      "testimonial": "Definitely smart! The way you understood the project is very impressive!!"
+    },
+    {
+      "id": 3,
+      "clientName": "Killian",
+      "testimonial": "Very Hard-Working! Great communication and fast turnaround. Would definitely work with again!"
+    },
+    {
+      "id": 4,
+      "clientName": "Elias",
+      "testimonial": "We are very impressed by your work."
+    }
+  ]
+}

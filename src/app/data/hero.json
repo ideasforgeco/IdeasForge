@@ -1,0 +1,23 @@
+{
+  "heading": {
+    "line1": "We Craft Digital Experiences",
+    "line2": "Through"
+  },
+  "carouselTexts": [
+    "Web Development",
+    "Mobile Apps",
+    "AI Solutions",
+    "DevOps",
+    "UI/UX Design"
+  ],
+  "subheading": "Smart, scalable software solutions — built fast, built right.",
+  "stats": {
+    "projects": 10,
+    "industries": 10,
+    "satisfaction": 99
+  },
+  "buttons": {
+    "primary": "Start Your Project",
+    "secondary": "See Our Work"
+  }
+}

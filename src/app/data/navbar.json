@@ -1,0 +1,11 @@
+{
+  "logo": "/images/assets/company_logo.svg",
+  "menuItems": [
+    { "id": "about", "label": "About" },
+    { "id": "services", "label": "Services" },
+    { "id": "process", "label": "Process" },
+    { "id": "projects", "label": "Work" },
+    { "id": "faq", "label": "FAQ" }
+  ],
+  "ctaButton": "Book Free Consultation"
+}

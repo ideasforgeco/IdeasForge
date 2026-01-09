@@ -1,0 +1,16 @@
+{
+  "heading": {
+    "part1": "Fuel Your Growth",
+    "part2": "With Our Expertise"
+  },
+  "leftColumn": {
+    "logo": "/images/assets/company_logo.svg",
+    "title": "Scale revenue more efficiently today",
+    "description": "We craft software that solves real problems and drives measurable growth\n\nWhy Ideas Forge?\n\nOur expert team designs and develops custom software that blends creativity and technology, turning innovative ideas into scalable, high-performing solutions.",
+    "meetIcon": "/images/icons/meet_icon.svg",
+    "meetText": "Google Meet",
+    "globeIcon": "/images/icons/globe_icon.svg"
+  },
+  "timezones": ["Asia/Karachi", "America/New_York", "Europe/London", "UTC"],
+  "defaultTimezone": "Asia/Karachi"
+}

@@ -1,0 +1,90 @@
+{
+  "heading": "Solutions That Spark Success",
+  "subheading": "We deliver full-cycle software development, from discovery to deployment.",
+  "services": [
+    {
+      "id": 1,
+      "name": "Web Development",
+      "description": "We build fast, responsive web applications using React, Next.js, Vue, and more. From e-commerce to enterprise dashboards, we deliver scalable solutions optimized for performance and user experience.",
+      "detailedDescription": "Transform your vision into powerful web applications that engage users and drive results. We leverage modern frameworks like React, Next.js, Vue, Angular, and more to create lightning-fast, responsive experiences. Whether it's a dynamic e-commerce platform, SaaS application, or enterprise dashboard, we deliver solutions built for scale, security, and exceptional performance across all devices.",
+      "icons": [
+        "/images/services/angular.svg",
+        "/images/services/react.svg",
+        "/images/services/vue.svg",
+        "/images/services/js.svg",
+        "/images/services/nextjs.svg",
+        "/images/services/typescript.svg",
+        "/images/services/firebase.svg",
+        "/images/services/redis.svg",
+        "/images/services/redux.svg",
+        "/images/services/zustand.svg"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Mobile App Development",
+      "description": "Native and cross-platform mobile apps for iOS and Android using Flutter, React Native, Swift, and more. We create engaging mobile experiences that users love and businesses rely on.",
+      "detailedDescription": "Bring your ideas to life with stunning mobile applications that captivate users. We build native and cross-platform apps using Flutter, React Native, Swift, Kotlin, and more. From consumer apps to enterprise solutions, we deliver seamless experiences that drive engagement, retention, and business growth across iOS and Android platforms.",
+      "icons": [
+        "/images/services/firebase.svg",
+        "/images/services/reactnative.svg",
+        "/images/services/flutter.svg",
+        "/images/services/swift.svg",
+        "/images/services/kotlin.svg",
+        "/images/services/android.svg",
+        "/images/services/expo.svg",
+        "/images/services/ionic.svg",
+        "/images/services/xamarin.svg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "AI Solutions",
+      "description": "Intelligent systems powered by machine learning and AI. We build chatbots, recommendation engines, predictive analytics using TensorFlow, PyTorch, OpenAI, and more to transform your business.",
+      "detailedDescription": "Unlock the power of artificial intelligence to solve complex business challenges. We develop intelligent systems using TensorFlow, PyTorch, OpenAI APIs, LangChain, and more. From conversational AI and recommendation engines to predictive analytics and automation, we build custom AI solutions that drive innovation and competitive advantage for your business.",
+      "icons": [
+        "/images/services/langchain.svg",
+        "/images/services/n8n.svg",
+        "/images/services/numpy.svg",
+        "/images/services/openai.svg",
+        "/images/services/pandas.svg",
+        "/images/services/pytorch.svg",
+        "/images/services/scikitlearn.svg",
+        "/images/services/tensorflow.svg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "UI/UX Design",
+      "description": "Beautiful, intuitive interfaces that users love. Using Figma, Adobe XD, Sketch, and more, we craft pixel-perfect designs that balance aesthetics with functionality and accessibility.",
+      "detailedDescription": "Create memorable experiences with designs that delight users and drive engagement. We use Figma, Adobe XD, Sketch, Framer, and more to craft intuitive interfaces and seamless user journeys. From research and wireframes to high-fidelity prototypes and design systems, we ensure every interaction is purposeful and every pixel is intentional.",
+      "icons": [
+        "/images/services/adobexd.svg",
+        "/images/services/figma.svg",
+        "/images/services/sketch.svg",
+        "/images/services/framer.svg",
+        "/images/services/adobeai.svg",
+        "/images/services/canva.svg",
+        "/images/services/zeplin.svg",
+        "/images/services/behance.svg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "DevOps",
+      "description": "Scalable cloud infrastructure on AWS, Azure, GCP, and more. We handle containerization, CI/CD pipelines, automation, and security to keep your applications running smoothly and reliably.",
+      "detailedDescription": "Build reliable infrastructure that scales with your business. We architect cloud solutions on AWS, Azure, Google Cloud, and more, with Docker, Kubernetes, automated CI/CD, and infrastructure as code. From deployment and monitoring to security and cost optimization, we ensure your systems are robust, efficient, and production-ready.",
+      "icons": [
+        "/images/services/aws.svg",
+        "/images/services/azure.svg",
+        "/images/services/gcp.svg",
+        "/images/services/docker.svg",
+        "/images/services/kubernetes.svg",
+        "/images/services/github.svg",
+        "/images/services/gitlab.svg",
+        "/images/services/cloudflare.svg",
+        "/images/services/jenkins.svg"
+      ]
+    }
+  ]
+}
